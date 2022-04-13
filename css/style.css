@@ -1,0 +1,61 @@
+/* Created by: MariaG
+* Created on: April 13, 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit3-03-HTML-VolumeSphere
+*/
+
+img {
+  width: 10%;
+}
+
+body {
+  width: 80%;
+  margin: 5% 10%;
+  font-family: Arial, "Arial Narrow", sans-serif;
+}
+
+h1 {
+  font-family: "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  background-color: #f94375;
+  color: white;
+  padding: 20px;
+}
+
+#green {
+  padding: 20px;
+  text-align: center;
+  background-color: #cffee5;
+}
+
+p {
+  width: 80%;
+  margin-left: 10%;
+}
+
+#blue {
+  padding: 20px;
+  background-color: #cff5fe;
+  margin-top: 30px;
+}
+
+h3 {
+  width: 80%;
+  margin-left: 10%;
+}
+
+form {
+  width: 80%;
+  margin-left: 10%;
+}
+
+#yellow {
+  padding: 20px;
+  background-color: #fcfaaf;
+  margin-top: 30px;
+}
+
+iframe {
+  width: 80%;
+  margin-left: 10%;
+}
